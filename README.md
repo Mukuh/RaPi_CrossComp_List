@@ -2,10 +2,10 @@
 
 | Repository | Toolchain Files | git push | Linux | Windows32 | Windows64  | Arm64 |
 |:---------:|:---------------:|:-------------:|:-----:|:---------:|:----------:|:-----:|
-| lua5.1 | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| lua5.2 | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| lua5.1 | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| lua5.2 | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lua5.3 | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| zlib | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| zlib | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | luajit-bitop| :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 :wrench: - in Progress\
