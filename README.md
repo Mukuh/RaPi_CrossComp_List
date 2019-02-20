@@ -1,17 +1,17 @@
-##List of edited Muhkuh repository's for CrossCompile with toolchain files
+## List of edited Muhkuh repository's for CrossCompile with toolchain files
 
 | Repository | Toolchain Files | git push | Linux | Windows32 | Windows64  | Arm64 |
 |:---------:|:---------------:|:-------------:|:-----:|:---------:|:----------:|:-----:|
-| lua5.1 | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| lua5.2 | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| lua5.1 | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| lua5.2 | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lua5.3 | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| zlib | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| zlib | :metal: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | luajit-bitop| :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 :wrench: - in Progress\
 :metal: - finished
 
-####TODO:
+#### TODO:
 
 | Repository | Platform | Description |
 |:----------:|:--------:|:-----------:|
