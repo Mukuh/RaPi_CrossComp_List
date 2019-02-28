@@ -4,7 +4,7 @@
 |:---------:|:---------------:|:-------------:|:-----:|:---------:|:----------:|:-----:|
 | lua5.1 | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lua5.2 | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| lua5.3 | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| lua5.3 | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | zlib | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | luajit-bitop| :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lua-romloader | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
