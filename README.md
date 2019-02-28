@@ -14,7 +14,7 @@
 | lua-archive | :x: | :x: | :x: | :x: | :x: | :x: |
 | libuv | :x: | :x: | :x: | :x: | :x: | :x: |
 | lluv  | :x: | :x: | :x: | :x: | :x: | :x: |
-| libzmq | :x: | :x: | :x: | :x: | :x: | :x: |
+| libzmq | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lzmq | :x: | :x: | :x: | :x: | :x: | :x: |
 | curl-curl | :x: | :x: | :x: | :x: | :x: | :x: |
 
