@@ -8,6 +8,15 @@
 | zlib | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | luajit-bitop| :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lua-romloader | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
+| luaftdi | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
+| mhash | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
+| openocd | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
+| lua-archive | :x: | :x: | :x: | :x: | :x: | :x: |
+| libuv | :x: | :x: | :x: | :x: | :x: | :x: |
+| lluv  | :x: | :x: | :x: | :x: | :x: | :x: |
+| libzmq | :x: | :x: | :x: | :x: | :x: | :x: |
+| lzmq | :x: | :x: | :x: | :x: | :x: | :x: |
+| curl-curl | :x: | :x: | :x: | :x: | :x: | :x: |
 
 :wrench: - in Progress\
 :metal: - finished
