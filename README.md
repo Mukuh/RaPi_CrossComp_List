@@ -12,7 +12,7 @@
 | mhash | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
 | openocd | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: |
 | lua-archive | :x: | :x: | :x: | :x: | :x: | :x: |
-| libuv | :x: | :x: | :x: | :x: | :x: | :x: |
+| libuv | :heavy_check_mark: | :x: | :heavy_check_mark: | :wrench: | :wrench: | :heavy_check_mark: |
 | lluv  | :x: | :x: | :x: | :x: | :x: | :x: |
 | libzmq | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | lzmq | :x: | :x: | :x: | :x: | :x: | :x: |
