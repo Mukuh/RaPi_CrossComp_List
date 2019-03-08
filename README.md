@@ -19,6 +19,10 @@
 | curl-curl | :x: | :x: | :x: | :x: | :x: | :x: |
 | lua-curl| :x: | :x: | :x: | :x: | :x: | :x: |
 | lua-sql | :x: | :x: | :x: | :x: | :x: | :x: |
+| diegonehab-luasocket | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| keplerproject-luafilesystem | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| matthewwild-luaexpat | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| hoelzro-lua-term | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 :wrench: - in Progress\
 :metal: - finished
@@ -28,3 +32,7 @@
 | Repository | Platform | Description |
 |:----------:|:--------:|:-----------:|
 | zlib | win32/64 | ImageMagickConvertEXEC |
+| archive | all | central repository |
+| keplerproject-luafilesystem | all | central repository |
+| matthewwild-luaexpat | all | central repository |
+| hoelzro-lua-term | all | central repository |
