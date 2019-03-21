@@ -19,10 +19,10 @@
 | curl-curl | :x: | :x: | :x: | :x: | :x: | :x: |
 | lua-curl| :x: | :x: | :x: | :x: | :x: | :x: |
 | lua-sql | :x: | :x: | :x: | :x: | :x: | :x: |
-| diegonehab-luasocket | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| keplerproject-luafilesystem | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| matthewwild-luaexpat | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| hoelzro-lua-term | :heavy_check_mark: | :wrench: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| diegonehab-luasocket | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| keplerproject-luafilesystem | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| matthewwild-luaexpat | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| hoelzro-lua-term | :heavy_check_mark: | :metal: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 :wrench: - in Progress\
 :metal: - finished
